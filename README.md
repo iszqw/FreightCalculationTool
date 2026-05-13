@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ### 启动应用
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ### 访问地址
